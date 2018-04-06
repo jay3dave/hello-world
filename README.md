@@ -1,2 +1,2 @@
 # hello-world
-Tutorial
+Tutorial for CPAN students.
